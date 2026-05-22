@@ -7,5 +7,6 @@ Developers are increasingly relying on AI tools, such as coding assistants, to h
 Despite all the advantages of AI, human assistance and supervision are still very much needed.
 
 What is AI coding?
+
 AI code generator is an application program used to automate the coding process through artificial intelligence.Through such programs, coders can quickly convert their requirements into working code.Through automation, AI code generators can significantly increase the productivity of programmers by reducing repetitive activities and even solving security concerns.AI code generators will enable programmers to translate code from one programming language to another.
 In this regard, AI code generator tools have become very essential in software programming.
