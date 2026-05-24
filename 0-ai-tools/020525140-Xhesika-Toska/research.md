@@ -46,6 +46,27 @@ Software development through AI is becoming easily applicable for both technical
 
 Moreover, pre-trained AI and cloud-based technologies help simplify the process of software development while making it more flexible due to the use of readily available resources. Overall, AI plays a critical role in facilitating productivity, fostering innovation, and collaboration in software development.
 
+## Artificial Intelligence Tools Used in Software Development
+### 1. GitHub Copilot
+One of the best coding assistances that is powered by Artificial Intelligence and utilized by programmers is GitHub Copilot. This tool was created by GitHub together with OpenAI; it can be used with such popular programming tools as Visual Studio Code, Visual Studio, and JetBrains IDEs. GitHub Copilot is capable of generating code lines, functions, and even algorithms based on comments.
+Among the most important benefits offered by GitHub Copilot is the ability to accelerate the development process through automation of repetitive coding tasks. Developers can benefit from real-time suggestions, cut down on programming errors, and increase productivity. Nonetheless, it is crucial for developers to manually check the code since sometimes AI suggestions can be wrong or even malicious.
+### 2. Google Gemini Code Assist
+The other coding assistant powered by artificial intelligence is the Google Gemini Code Assist. This coding assistant serves developers and helps them while programming by offering code suggestions and solving their errors.
+The Gemini Code Assist helps programmers who develop large-scale programs. It helps them understand the logic of programming and solve technical issues fast. Due to artificial intelligence, programmers can achieve efficient results within less time.
+### 3. Amazon Q Developer
+Amazon Q Developer is an AI coding assistance application aimed at helping developers enhance their coding activities, particularly cloud-based and AWS applications. It can suggest smart ideas and automate routine coding procedures to ensure code consistency.
+The other crucial benefit offered by Amazon Q Developer lies in the fact that it enables developers to build highly scalable cloud-native applications. Through enhanced coding workflow and minimized errors, this app makes it easier for developers to manage their software development process.
+### 4. Replit Ghostwriter
+Replit Ghostwriter is an AI-based coding assistant that is gaining popularity among programmers. This software assists programmers in writing codes by providing multiple code completions and debugging facilities.
+The Ghostwriter assists programmers to improve their coding skills and understand the fundamentals of coding more effectively. Ghostwriter is especially helpful for novice programmers since it enables programmers to learn about coding logics and find solutions to problems encountered during coding.
+### JetBrains AI Assistant
+JetBrains AI Assistant is an AI-based program that integrates within the development environment provided by JetBrains, such as IntelliJ IDEA, PyCharm, and WebStorm. This AI assistant assists the developer in writing the code, understanding its logic, debugging, and documenting the code. The integration of the AI tool with the development environment helps the programmer to become more productive by saving effort on routine tasks and offering intelligent code suggestions. Furthermore, it assists the programmer in understanding the complexity of the code.
+
+### IBM watsonx Code Assistant
+IBM watsonx Code Assistant is an AI-based software engineering assistant that assists the developer in the process of generating code, modernizing legacy applications, and enhancing developer productivity. This AI assistant helps to build applications faster and is especially important for enterprise-level projects. The integration of the IBM watsonx Code Assistant within the software engineering environment helps in building enterprise-grade software.
+
+
+
 ## Benefits of AI in software development.
 There are several significant advantages of using Artificial Intelligence in the process of software development. First of all, AI can significantly automate the developer's tasks. In particular, developers are usually occupied with writing repetitive code, detecting bugs and testing applications for performance and errors. All of these actions can be automated by an AI system that generates code, detects bugs, and finds solutions to these bugs. Automation enables developers to engage into solving different problems related to programming and software designing.
 
@@ -78,3 +99,5 @@ Lastly, AI enhances the user experience due to personalization of software in ac
 1. Microsoft Tay Chatbot (2016) – Microsoft launched the Tay Chatbot, which learns from user interaction on Twitter. Unfortunately, after only 24 hours, the program began creating racist statements because people influenced the learning process inappropriately. This case study highlighted issues related to data bias and the need for ethics in AI systems.
 
 2. Tesla Autopilot Car Accidents (2018-2021) – Tesla’s AI Autopilot feature caused multiple accidents due to the inability to detect obstacles and understand the situation properly. This case study brought up issues concerning accountability, safety, and AI interpretability.
+
+
