@@ -40,3 +40,8 @@ Auditing code: The AI assists in maintaining secure changes to code.
 10.Architecture design-Optimal software architecture can be provided by AI on the basis of best practices and project needs. Neural networks evaluate large amounts of data and create efficient architectural models for complicated applications like image recognition used in health care solutions.
 Solution architecture: AI enables automation of solution design, along with utilizing scalable architectures.
 
+The availability of artificial intelligence in software development is now getting closer to both IT professionals and non-professionals. IT professionals and data scientists utilize artificial intelligence for improving software applications, automated code writing, code checking, error detection, among others. On the other hand, individuals with no previous software development skills can also leverage the power of artificial intelligence in creating apps and automating processes via no-code and low-code platforms that do not require any advanced programming.
+
+## Who can use AI in software development?
+
+Additionally, the use of pretrained artificial intelligence models and cloud computing platforms facilitates software development due to ready access to scalable services. Overall, artificial intelligence is enabling firms and professionals from different industries to be productive, innovative, and collaborative in their software development practices.
