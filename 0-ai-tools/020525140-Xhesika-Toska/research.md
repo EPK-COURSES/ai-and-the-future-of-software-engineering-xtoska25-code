@@ -16,12 +16,22 @@ The use of AI in software development
 There are certain tools provided by AI, which make the whole process of software development more efficient and creative for developers. AI is helping to make certain breakthroughs in software development through its applications. The major fields of the application of AI in software development are:
 
 Code generation
+
 Finding and fixing bugs
+
 Test automation
+
 Project management
+
 Documentation
+
 Code refactoring and optimization
+
 Security improvement
+
 DevOps and CI/CD
+
 UX design
+
 Architecture design
+
