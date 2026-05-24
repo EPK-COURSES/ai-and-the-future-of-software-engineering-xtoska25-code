@@ -59,10 +59,10 @@ The other crucial benefit offered by Amazon Q Developer lies in the fact that it
 ### 4. Replit Ghostwriter
 Replit Ghostwriter is an AI-based coding assistant that is gaining popularity among programmers. This software assists programmers in writing codes by providing multiple code completions and debugging facilities.
 The Ghostwriter assists programmers to improve their coding skills and understand the fundamentals of coding more effectively. Ghostwriter is especially helpful for novice programmers since it enables programmers to learn about coding logics and find solutions to problems encountered during coding.
-### JetBrains AI Assistant
+### 5.JetBrains AI Assistant
 JetBrains AI Assistant is an AI-based program that integrates within the development environment provided by JetBrains, such as IntelliJ IDEA, PyCharm, and WebStorm. This AI assistant assists the developer in writing the code, understanding its logic, debugging, and documenting the code. The integration of the AI tool with the development environment helps the programmer to become more productive by saving effort on routine tasks and offering intelligent code suggestions. Furthermore, it assists the programmer in understanding the complexity of the code.
 
-### IBM watsonx Code Assistant
+### 6.IBM watsonx Code Assistant
 IBM watsonx Code Assistant is an AI-based software engineering assistant that assists the developer in the process of generating code, modernizing legacy applications, and enhancing developer productivity. This AI assistant helps to build applications faster and is especially important for enterprise-level projects. The integration of the IBM watsonx Code Assistant within the software engineering environment helps in building enterprise-grade software.
 
 
