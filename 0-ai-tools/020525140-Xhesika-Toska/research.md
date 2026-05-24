@@ -70,3 +70,11 @@ Lastly, AI enhances the user experience due to personalization of software in ac
 5. Security and Privacy Concerns - Artificial Intelligence programs need access to the source code, personal information, and confidential information related to projects. In case of poor security practices, there are chances of cybersecurity issues, privacy problems, and even misuse of confidential information. It is vital for programmers to implement adequate security and adhere to certain regulations.
 
 6. Overdependence on Artificial Intelligence - Yet another critical challenge is that of dependence on Artificial Intelligence. Programmers should be careful not to overly rely on Artificial Intelligence since they might lose their ability to solve problems by themselves. Even though Artificial Intelligence increases efficiency, it cannot replace human judgment and expertise.
+
+7. Build versus Buy – The question that faces organizations is whether they should build their AI solutions or purchase AI services from external sources. Building them in-house allows for more control, but will be costly and requires skilled professionals.
+
+## Real-World Examples of AI Challenges
+
+1. Microsoft Tay Chatbot (2016) – Microsoft launched the Tay Chatbot, which learns from user interaction on Twitter. Unfortunately, after only 24 hours, the program began creating racist statements because people influenced the learning process inappropriately. This case study highlighted issues related to data bias and the need for ethics in AI systems.
+
+2. Tesla Autopilot Car Accidents (2018-2021) – Tesla’s AI Autopilot feature caused multiple accidents due to the inability to detect obstacles and understand the situation properly. This case study brought up issues concerning accountability, safety, and AI interpretability.
