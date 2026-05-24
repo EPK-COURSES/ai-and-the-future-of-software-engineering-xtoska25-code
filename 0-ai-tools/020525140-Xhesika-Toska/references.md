@@ -6,3 +6,12 @@ https://medium.com/predict/artificial-intelligence-challenges-in-software-develo
 
 https://www.propelcode.ai/blog/how-ai-is-transforming-code-completion
 
+https://www.ibm.com/think/topics/software-development
+
+https://www.ibm.com/think/topics/sdlc
+
+https://www.ibm.com/think/topics/ai-code-generation
+
+https://www.sonarsource.com/resources/library/ai-coding-assistants/
+
+https://mimo.org/blog/ai-vs-traditional-programming
