@@ -44,4 +44,6 @@ The availability of artificial intelligence in software development is now getti
 
 ## Who can use AI in software development?
 
-Additionally, the use of pretrained artificial intelligence models and cloud computing platforms facilitates software development due to ready access to scalable services. Overall, artificial intelligence is enabling firms and professionals from different industries to be productive, innovative, and collaborative in their software development practices.
+Software developers have traditionally had access to the power of artificial intelligence when developing software, but that trend is shifting. Professionals skilled at developing and utilizing AI can enhance existing software, automate code-writing activities, find errors in programs, and generally develop advanced applications. At the same time, non-skilled people without any experience with coding can create software using no-code/low-code application development platforms, where they will be able to use AI capabilities without needing programming skills.
+
+Also, the availability of pretrained models and cloud computing allows for more efficient software development, making the process more convenient. Overall, the application of AI is making businesses more productive, innovative, and collaborative.
