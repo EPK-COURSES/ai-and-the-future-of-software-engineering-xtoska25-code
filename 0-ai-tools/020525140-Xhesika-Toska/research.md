@@ -111,3 +111,11 @@ In addition, Artificial Intelligence may also prove helpful in enhancing various
 Moreover, the accuracy of AI-generated code will continue to improve as machine learning algorithms get even smarter. Developers will probably start working with artificial intelligence in a fashion similar to pair programming, where intelligent machines will help humans in solving tasks and developing solutions.
 
 Nevertheless, all these improvements should not make anyone believe that Artificial Intelligence will eventually replace software engineers altogether. Skills such as creativity, critical thinking, making decisions, evaluating situations from an ethical point of view, and solving problems still require human input. Instead of substituting software developers, AI will probably assist them in becoming even more efficient.
+
+
+## The Impact of AI on Developers
+Artificial Intelligence has impacted the software development industry by increasing efficiency and effectiveness, quality of software produced, and effective collaboration among developers. AI tools allow automating repetitive actions, including writing, debugging, and testing. Thus, developers can spend their time on performing more complex and interesting tasks, which helps reduce costs and improve quality of final product.
+
+Moreover, AI technologies increase software quality by detecting vulnerabilities, errors, and possible problems with performance at an early stage. Also, AI facilitates processes of planning and making decisions for software development projects as well as provides personalized experience for users.
+
+Nevertheless, increased usage of AI creates some challenges. For example, developers can be too reliant on automated generation of software code. Moreover, there might be some problems regarding security and privacy, as well as ethical considerations. Nevertheless, complete replacement of programmers with Artificial Intelligence is hardly possible, and it will be used as an additional technology in future.
