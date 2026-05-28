@@ -15,3 +15,5 @@ https://www.ibm.com/think/topics/ai-code-generation
 https://www.sonarsource.com/resources/library/ai-coding-assistants/
 
 https://mimo.org/blog/ai-vs-traditional-programming
+
+https://www.future-processing.com/blog/the-impact-of-ai-on-software-development-opportunities-and-challenges/
