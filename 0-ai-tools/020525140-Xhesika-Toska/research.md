@@ -45,6 +45,15 @@ Software development through AI is becoming easily applicable for both technical
 
 Moreover, pre-trained AI and cloud-based technologies help simplify the process of software development while making it more flexible due to the use of readily available resources. Overall, AI plays a critical role in facilitating productivity, fostering innovation, and collaboration in software development.
 
+## Categories of AI Tools Used in Software Development
+
+Artificial intelligence tools used in software development can be categorized depending on the function served by each of the AI applications. As Kimm (2022) points out, AI technologies can be categorized based on their problem-solving capabilities and approaches that are involved. Different AI tools serve different purposes and offer a wide variety of services to software developers and engineers.
+
+For instance, code assistants like GitHub Copilot and Google Gemini Code Assist can be categorized as AI tools designed to automate routine programming activities, as well as generate useful coding hints. Other types of AI tools include those used in software testing, security, performance evaluation, and optimization. Moreover, decision-support tools can also be used for software development, where they assist developers in choosing appropriate software architectures and prioritize software development activities among other functions.
+
+All these AI tools play vital roles in boosting developers' productivity, as well as help them deal with technical challenges in software engineering more effectively. Nevertheless, regardless of the type of AI tool, it is important to consider whether it has been used appropriately and evaluated critically.
+
+
 ## Artificial Intelligence Tools Used in Software Development
 ### 1. GitHub Copilot
 One of the best coding assistances that is powered by Artificial Intelligence and utilized by programmers is GitHub Copilot. This tool was created by GitHub together with OpenAI; it can be used with such popular programming tools as Visual Studio Code, Visual Studio, and JetBrains IDEs. GitHub Copilot is capable of generating code lines, functions, and even algorithms based on comments.
