@@ -61,6 +61,8 @@ One of the most popular uses of artificial intelligence in software development 
 
 As Svyatkovskiy et al. (2019) state, one of the examples of an intelligent code completion system based on deep learning technologies is Pythia. Using the power of AI, such code completion tools help developers work more efficiently because these suggestions are provided based on programming context analysis. Thus, developers can focus less on syntax and spend more time on code comprehension and debugging.
 
+Yet another critical element associated with AI-powered code completion systems is the perception that programmers have of such tools. As stated by Desolda et al. (2025), developers often develop certain mental models about AI-assisted coding systems' ability to make recommendations or react to different programming contexts. Misunderstandings, however, might occur when developers tend to expect too much from AI systems, including the fact that AI will be able to perceive their project's requirements or come up with absolutely correct recommendations. Sometimes, the discrepancy between the expectations and the reality might lead to problems with usability. Hence, programmers must know what AI-powered code completion tools can do well and where their weaknesses lie.
+
 Code completion systems that use AI technology are currently popular in the field of software engineering, for example, GitHub Copilot, Google Gemini Code Assist, and JetBrains AI Assistant. However, while AI code completion systems have numerous benefits, they cannot entirely replace programmers since the output of AI is not always accurate, secure, and fully consistent with the needs of the projects.
 
 ### 1. GitHub Copilot
