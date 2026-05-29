@@ -64,6 +64,14 @@ JetBrains AI Assistant is an AI-based program that integrates within the develop
 ### 6.IBM watsonx Code Assistant
 IBM watsonx Code Assistant is an AI-based software engineering assistant that assists the developer in the process of generating code, modernizing legacy applications, and enhancing developer productivity. This AI assistant helps to build applications faster and is especially important for enterprise-level projects. The integration of the IBM watsonx Code Assistant within the software engineering environment helps in building enterprise-grade software.
 
+## Factors That Drive the Use of AI-Based Tools
+
+The growing use of Artificial Intelligence-based tools in software development is driven by various factors. Developers tend to adopt tools that are powered by Artificial Intelligence when they perceive that the technology enhances their productivity, reduces effort, and simplifies software development. The adoption of AI-based technologies is determined by performance expectancy, effort expectancy, social influence, and facilitation factors as noted by Venkatesh (2022). This implies that individuals are more willing to use technologies based on AI when they perceive that such systems enhance performance and are easy to use.
+
+In software development, AI tools including GitHub Copilot, Google Gemini Code Assist, and Amazon Q Developer are adopted due to their ability to automate various coding practices, provide code suggestions, and facilitate debugging processes. Individuals can be persuaded by organizational factors, peers, and industry practices to use AI-based tools in software development. Nonetheless, issues concerning trustworthiness, privacy, accuracy, and reliability hinder the adoption of AI-based systems.
+
+Thus, despite all the advantages that AI instruments provide, their efficient use presupposes striking a balance between these aspects. In turn, specialists have to determine whether the recommendations provided by AI solutions fit their particular projects and career needs.
+
 ## AI-based Decision Making in Software Development
 
 The use of Artificial Intelligence-based tools has been seen as a growing trend in making decisions in software development. Contemporary software development projects demand that programmers make difficult decisions regarding aspects such as software design, troubleshooting methods, testing methods, performance improvements, and resource allocation. With the assistance of AI systems, it is possible for programmers to analyze substantial amounts of data concerning their software projects and receive advice on how to make better decisions.
