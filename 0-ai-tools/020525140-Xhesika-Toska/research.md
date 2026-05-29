@@ -98,13 +98,13 @@ Lastly, AI enhances the user experience due to personalization of software in ac
 
 7. Build versus Buy – The question that faces organizations is whether they should build their AI solutions or purchase AI services from external sources. Building them in-house allows for more control, but will be costly and requires skilled professionals.
 
-  8.Ethical Issues
+    8.Ethical Issues
 
- In addition to the rising use of AI tools in software development, many ethical issues have been raised. The use of AI technology can increase productivity for    developers through helping write codes, test programs, debug programs, and plan software development projects. Nevertheless, the output created by AI technology   needs to be evaluated thoroughly to guarantee precision, safety, and justice. It is important to emphasize that the more often AI technologies will be used by     developers, the more responsible and informed usage of these technologies should become.
+   In addition to the rising use of AI tools in software development, many ethical issues have been raised. The use of AI technology can increase productivity for    developers through helping write codes, test programs, debug programs, and plan software development projects. Nevertheless, the output created by AI              technology   needs to be evaluated thoroughly to guarantee precision, safety, and justice. It is important to emphasize that the more often AI technologies        will be used by     developers, the more responsible and informed usage of these technologies should become.
 
- Another critical question is the danger of over-reliance on AI-powered solutions. Developers might become over-reliant on automatic suggestions and become less    skilled at solving problems and thinking critically themselves. Moreover, AI might give flawed advice, which could be caused by developers misunderstanding the    technicalities of the situation and/or the specifications of the task being performed. Ethical considerations about such things as privacy, safety, and            accountability should also be taken into account when dealing with AI-based technologies that need access to source code and other project-specific data.
+   Another critical question is the danger of over-reliance on AI-powered solutions. Developers might become over-reliant on automatic suggestions and become less    skilled at solving problems and thinking critically themselves. Moreover, AI might give flawed advice, which could be caused by developers misunderstanding the    technicalities of the situation and/or the specifications of the task being performed. Ethical considerations about such things as privacy, safety, and            accountability should also be taken into account when dealing with AI-based technologies that need access to source code and other project-specific data.
 
- Hence, the Artificial Intelligence approach should be employed as a supporting tool rather than as a means of replacing the work of professionals. The role of     developers remains highly crucial in examining AI-generated insights and making final decisions on technical issues.
+   Hence, the Artificial Intelligence approach should be employed as a supporting tool rather than as a means of replacing the work of professionals. The role of     developers remains highly crucial in examining AI-generated insights and making final decisions on technical issues.
 
 ## Real-World Examples of AI Challenges
 
