@@ -72,6 +72,15 @@ Code completion systems that use AI technology are currently popular in the fiel
 ### 1. GitHub Copilot
 One of the best coding assistances that is powered by Artificial Intelligence and utilized by programmers is GitHub Copilot. This tool was created by GitHub together with OpenAI; it can be used with such popular programming tools as Visual Studio Code, Visual Studio, and JetBrains IDEs. GitHub Copilot is capable of generating code lines, functions, and even algorithms based on comments.
 Among the most important benefits offered by GitHub Copilot is the ability to accelerate the development process through automation of repetitive coding tasks. Developers can benefit from real-time suggestions, cut down on programming errors, and increase productivity. Nonetheless, it is crucial for developers to manually check the code since sometimes AI suggestions can be wrong or even malicious.
+Problem the tool solves:
+The GitHub Copilot tool addresses the issue of developers spending lots of time on repetitive tasks, as well as the lack of efficiency while coding by suggesting lines of code, functions, and pieces of code that developers can incorporate into their work.
+How developers use it:
+Developers incorporate the GitHub Copilot tool into their IDEs, including Visual Studio Code, Visual Studio, and JetBrains IDEs. They write comments or prompts and use partial pieces of code to obtain AI-suggested coding pieces.
+Benefits and limitations:
+Its advantages consist in boosting developer productivity, speeding up code writing, reducing developers' repetitive activities, and helping with debugging and code suggestions. The limitations include the accuracy of suggested code, the security of suggested coding, the privacy of developers, and the necessity to check suggestions manually.
+Does the tool assist or replace developers?
+GitHub Copilot assists developers in their work but does not substitute them. Human intervention is required to review AI suggestions and improve them.
+
 ### 2. Google Gemini Code Assist
 The other coding assistant powered by artificial intelligence is the Google Gemini Code Assist. This coding assistant serves developers and helps them while programming by offering code suggestions and solving their errors.
 The Gemini Code Assist helps programmers who develop large-scale programs. It helps them understand the logic of programming and solve technical issues fast. Due to artificial intelligence, programmers can achieve efficient results within less time.
