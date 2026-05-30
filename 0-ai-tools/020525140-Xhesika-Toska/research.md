@@ -72,29 +72,119 @@ Code completion systems that use AI technology are currently popular in the fiel
 ### 1. GitHub Copilot
 One of the best coding assistances that is powered by Artificial Intelligence and utilized by programmers is GitHub Copilot. This tool was created by GitHub together with OpenAI; it can be used with such popular programming tools as Visual Studio Code, Visual Studio, and JetBrains IDEs. GitHub Copilot is capable of generating code lines, functions, and even algorithms based on comments.
 Among the most important benefits offered by GitHub Copilot is the ability to accelerate the development process through automation of repetitive coding tasks. Developers can benefit from real-time suggestions, cut down on programming errors, and increase productivity. Nonetheless, it is crucial for developers to manually check the code since sometimes AI suggestions can be wrong or even malicious.
+
 Problem the tool solves:
+
 The GitHub Copilot tool addresses the issue of developers spending lots of time on repetitive tasks, as well as the lack of efficiency while coding by suggesting lines of code, functions, and pieces of code that developers can incorporate into their work.
+
 How developers use it:
+
 Developers incorporate the GitHub Copilot tool into their IDEs, including Visual Studio Code, Visual Studio, and JetBrains IDEs. They write comments or prompts and use partial pieces of code to obtain AI-suggested coding pieces.
+
 Benefits and limitations:
+
 Its advantages consist in boosting developer productivity, speeding up code writing, reducing developers' repetitive activities, and helping with debugging and code suggestions. The limitations include the accuracy of suggested code, the security of suggested coding, the privacy of developers, and the necessity to check suggestions manually.
+
 Does the tool assist or replace developers?
 GitHub Copilot assists developers in their work but does not substitute them. Human intervention is required to review AI suggestions and improve them.
 
 ### 2. Google Gemini Code Assist
 The other coding assistant powered by artificial intelligence is the Google Gemini Code Assist. This coding assistant serves developers and helps them while programming by offering code suggestions and solving their errors.
 The Gemini Code Assist helps programmers who develop large-scale programs. It helps them understand the logic of programming and solve technical issues fast. Due to artificial intelligence, programmers can achieve efficient results within less time.
+
+The problem that the tool solves:
+
+Google Gemini Code Assist helps to overcome the programming challenges by providing the suggestions of code, logic explanation, and helping programmers troubleshoot the technical issues.
+
+How developers use it:
+
+Developers make use of Gemini Code Assist during the process of programming to get intelligent suggestions, debugging of code, and understanding programming logic.
+
+Benefits and disadvantages:
+
+Some of the benefits are fast issue resolution, increased efficiency, and understanding of complex programming concepts. Some of the disadvantages are incorrect suggestions, dependency, and an inability to understand specific project requirements.
+
+Is the tool a help or substitute for developers?
+
+Gemini Code Assist is a help but not a substitute for developers because developers have to test the output generated from the tool.
+
 ### 3. Amazon Q Developer
 Amazon Q Developer is an AI coding assistance application aimed at helping developers enhance their coding activities, particularly cloud-based and AWS applications. It can suggest smart ideas and automate routine coding procedures to ensure code consistency.
 The other crucial benefit offered by Amazon Q Developer lies in the fact that it enables developers to build highly scalable cloud-native applications. Through enhanced coding workflow and minimized errors, this app makes it easier for developers to manage their software development process.
+
+Problems addressed by the tool:
+
+Amazon Q Developer helps solve problems associated with cloud-based software development by allowing automation of coding and improving the process of AWS application development.
+
+Uses for developers:
+
+Developers make use of Amazon Q Developer to get coding suggestions and automating tasks.
+
+Pros and cons of the tool:
+
+Some pros are that the tool increases coding efficiency, supports scalable cloud-based apps, and reduces coding errors. Cons are dependency on the AWS ecosystem, possibility of inaccurate suggestions, and the need for technical skills.
+
+Is it an aid or replacement for developers?
+
+It is an aid for developers as it helps improve workflow processes but not a replacement as human decision-making is still necessary.
+
 ### 4. Replit Ghostwriter
 Replit Ghostwriter is an AI-based coding assistant that is gaining popularity among programmers. This software assists programmers in writing codes by providing multiple code completions and debugging facilities.
 The Ghostwriter assists programmers to improve their coding skills and understand the fundamentals of coding more effectively. Ghostwriter is especially helpful for novice programmers since it enables programmers to learn about coding logics and find solutions to problems encountered during coding.
+
+The problem the tool is solving:
+
+Replit Ghostwriter addresses the problems faced in coding by assisting programmers in writing, debugging, and comprehending coding logic.
+
+How the tool can be used by developers:
+
+Developers and novice programmers use the Ghostwriter feature in Replit for code assistance, debugging programming mistakes, and understanding coding principles.
+
+Advantages and disadvantages:
+
+Advantages consist of ease of use for beginners, debugging, and quicker code writing. Disadvantages are inaccuracies in code, over-reliance, and inadequate comprehension of project specifications.
+
+Whether the tool helps or replaces developers:
+
+Replit Ghostwriter helps developers and novices instead of replacing them.
+
 ### 5.JetBrains AI Assistant
 JetBrains AI Assistant is an AI-based program that integrates within the development environment provided by JetBrains, such as IntelliJ IDEA, PyCharm, and WebStorm. This AI assistant assists the developer in writing the code, understanding its logic, debugging, and documenting the code. The integration of the AI tool with the development environment helps the programmer to become more productive by saving effort on routine tasks and offering intelligent code suggestions. Furthermore, it assists the programmer in understanding the complexity of the code.
 
+Problems that the software solves:
+
+The JetBrains AI Assistant is used to address problems connected with code complexity, debugging, documentation writing, and other similar programming-related problems.
+
+The way developers make use of it:
+
+The JetBrains AI Assistant is used by developers in JetBrains development environments like IntelliJ IDEA, PyCharm, and WebStorm to develop their code.
+
+Advantages and disadvantages:
+
+Some advantages of using the software include increased productivity, code intelligence, and better comprehension of complex codes. The drawbacks of using it include incorrect suggestions and dependency on developers for validation.
+
+Does the software help or replace the developer?
+
+It helps developers with coding and does not replace them since human judgment is required.
+
 ### 6.IBM watsonx Code Assistant
 IBM watsonx Code Assistant is an AI-based software engineering assistant that assists the developer in the process of generating code, modernizing legacy applications, and enhancing developer productivity. This AI assistant helps to build applications faster and is especially important for enterprise-level projects. The integration of the IBM watsonx Code Assistant within the software engineering environment helps in building enterprise-grade software.
+
+Problems the tool solves:
+
+IBM watsonx Code Assistant provides support for modernizing existing IT infrastructure, generating code, and making enterprise software development more efficient.
+
+Usage by developers:
+
+Developers can use IBM watsonx Code Assistant to generate code and help modernize their applications and work on improving software development practices.
+
+Pros and cons:
+
+The pros are faster software development, capability of working with enterprise systems, and overall efficiency improvement. The cons are related to cost, difficulty, and human supervision requirement.
+
+Assistance or replacement:
+
+IBM watsonx Code Assistant helps developers but cannot replace them as they should make their own decisions and validate the results.
 
 ## Factors That Drive the Use of AI-Based Tools
 
